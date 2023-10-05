@@ -1,0 +1,158 @@
+ion="Compare resources, clipboard contents or editors" category="_5mTVfmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mqh7GQHEe2s9ICykGPXNA" elementId="org.eclipse.tm4e.languageconfiguration.addBlockCommentCommand" commandName="Add Block Comment" category="_5mTVcWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mqh7WQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.add.javadoc.comment" commandName="Add Javadoc Comment" description="Add a Javadoc comment stub to the member element" category="_5mUjkmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mqh7mQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.team.CreatePatch" commandName="Create Patch..." category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mqh72QHEe2s9ICykGPXNA" elementId="org.eclipse.ui.editors.revisions.author.toggle" commandName="Toggle Revision Author Display" description="Toggles the display of the revision author" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mqh8GQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.goto.windowEnd" commandName="Window End" description="Go to the end of the window" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mqh8WQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.RebaseInteractiveCurrent" commandName="Interactive Rebase" category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mqh8mQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.perspectives.showPerspective" commandName="Show Perspective" description="Show a particular perspective" category="_5mT8hGQHEe2s9ICykGPXNA">
+    <parameters xmi:id="_5mqh82QHEe2s9ICykGPXNA" elementId="org.eclipse.ui.perspectives.showPerspective.perspectiveId" name="Parameter"/>
+    <parameters xmi:id="_5mqh9GQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.perspectives.showPerspective.newWindow" name="In New Window"/>
+  </commands>
+  <commands xmi:id="_5ms-EGQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.window.openEditorDropDown" commandName="Quick Switch Editor" description="Open the editor drop down list" category="_5mTVgGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5ms-EWQHEe2s9ICykGPXNA" elementId="AnsiConsole.command.copy_with_escapes" commandName="Copy Text With ANSI Escapes" description="Copy the console content to clipboard, including the escape sequences" category="_5mTVeWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mtlIGQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.goto.line" commandName="Go to Line" description="Go to a specified line of text" category="_5mTVeGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mtlIWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.editors.quickdiff.revert" commandName="Revert Lines" description="Revert the current selection, block or deleted lines" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mtlImQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.deleteNextWord" commandName="Delete Next Word" description="Delete the next word" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mtlI2QHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.debug.ui.javaAppletShortcut.debug" commandName="Debug Java Applet" description="Debug Java Applet" category="_5mT8gGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mtlJGQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.toggleMarkOccurrences" commandName="Toggle Mark Occurrences" description="Toggles mark occurrences in Java editors" category="_5mUjkmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mtlJWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.select.lineUp" commandName="Select Line Up" description="Extend the selection to the previous line of text" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mtlJmQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.SkipRebase" commandName="Skip commit and continue" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mtlJ2QHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.replace.invocations" commandName="Replace Invocations" description="Replace invocations of the selected method" category="_5mTVgWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mtlKGQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.search.declarations.in.hierarchy" commandName="Declaration in Hierarchy" description="Search for declarations of the selected element in its hierarchy" category="_5mTVhWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mtlKWQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.history.SetQuickdiffBaseline" commandName="Set quickdiff baseline" category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMMGQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.undo" commandName="Undo" description="Undo the last operation" category="_5mTVcmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMMWQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.team.submodule.add" commandName="Add Submodule" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMMmQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.cut.line.to.end" commandName="Cut to End of Line" description="Cut to the end of a line of text" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMM2QHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.correction.convertAnonymousToLocal.assist" commandName="Quick Assist - Convert anonymous to local class" description="Invokes quick assist and selects 'Convert anonymous to local class'" category="_5mUjkmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMNGQHEe2s9ICykGPXNA" elementId="org.eclipse.compare.copyLeftToRight" commandName="Copy from Left to Right" description="Copy Current Change from Left to Right" category="_5mTVfmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMNWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.file.newQuickMenu" commandName="New menu" description="Open the New menu" category="_5mTVfGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMNmQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.project.openProject" commandName="Open Project" description="Open a project" category="_5mTVg2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMN2QHEe2s9ICykGPXNA" elementId="org.eclipse.debug.ui.actions.WatchCommand" commandName="Watch" description="Create a watch expression from the current selection and add it to the Expressions view" category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMOGQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.file.openWorkspace" commandName="Switch Workspace" description="Open the workspace selection dialog" category="_5mTVfGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMOWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.file.closeAll" commandName="Close All" description="Close all editors" category="_5mTVfGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMOmQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.navigate.open.type" commandName="Open Type" description="Open a type in a Java editor" category="_5mTVeGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMO2QHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.cut" commandName="Cut" description="Cut the selection to the clipboard" category="_5mTVcmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMPGQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.history.ShowBlame" commandName="Show Revision Information" category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMPWQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.introduce.indirection" commandName="Introduce Indirection" description="Introduce an indirection to encapsulate invocations of a selected method" category="_5mTVgWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMPmQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.correction.addSuppressWarnings" commandName="Quick Fix - Add @SuppressWarnings" description="Invokes quick fix and selects 'Add @SuppressWarnings' " category="_5mUjkmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMP2QHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.team.Merge" commandName="Merge" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMQGQHEe2s9ICykGPXNA" elementId="org.eclipse.tips.ide.command.trim.open" commandName="Tip of the Day" category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMQWQHEe2s9ICykGPXNA" elementId="org.eclipse.ltk.ui.refactor.apply.refactoring.script" commandName="Apply Script" description="Perform refactorings from a refactoring script on the local workspace" category="_5mTVgWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMQmQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.team.ReplaceWithRef" commandName="Replace with branch, tag, or reference" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMQ2QHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.search.write.access.in.project" commandName="Write Access in Project" description="Search for write references to the selected element in the enclosing project" category="_5mTVhWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMRGQHEe2s9ICykGPXNA" elementId="org.eclipse.eclemma.ui.selectCounters" commandName="Select Counters" category="_5mTVe2QHEe2s9ICykGPXNA">
+    <parameters xmi:id="_5muMRWQHEe2s9ICykGPXNA" elementId="type" name="type" optional="false"/>
+  </commands>
+  <commands xmi:id="_5muMRmQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.project.properties" commandName="Properties" description="Display the properties of the selected item's project " category="_5mTVg2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMR2QHEe2s9ICykGPXNA" elementId="org.eclipse.eclemma.ui.testNgSuiteShortcut.coverage" commandName="Coverage TestNG Suite" description="Coverage TestNG Suite" category="_5mT8gGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMSGQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.extract.superclass" commandName="Extract Superclass" description="Extract a set of members into a new superclass and try to use the new superclass" category="_5mTVgWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMSWQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.history.CompareVersionsInTree" commandName="Compare in Tree" category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMSmQHEe2s9ICykGPXNA" elementId="org.eclipse.epp.package.common.contribute" commandName="Contribute" description="Contribute to the development and success of the Eclipse IDE!" category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMS2QHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.select.columnPrevious" commandName="Select Previous Column" description="Select the previous column" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMTGQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly" commandName="Show Selected Element Only" description="Show Selected Element Only" category="_5mTVgGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muMTWQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.internal.merge.ToggleCurrentChangesCommand" commandName="Ignore Changes from Ancestor to Current Version" description="Toggle ignoring changes only between the ancestor and the current version in a three-way merge comparison" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzQGQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.junit.junitShortcut.rerunFailedFirst" commandName="Rerun JUnit Test - Failures First" description="Rerun JUnit Test - Failures First" category="_5mT8gGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzQWQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.correction.extractLocalNotReplaceOccurrences.assist" commandName="Quick Assist - Extract local variable" description="Invokes quick assist and selects 'Extract local variable'" category="_5mUjkmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzQmQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.file.export" commandName="Export" description="Export" category="_5mTVfGQHEe2s9ICykGPXNA">
+    <parameters xmi:id="_5muzQ2QHEe2s9ICykGPXNA" elementId="exportWizardId" name="Export Wizard"/>
+  </commands>
+  <commands xmi:id="_5muzRGQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.RepositoriesToggleBranchHierarchy" commandName="Toggle Branch Representation" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzRWQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.search.implementors.in.project" commandName="Implementors in Project" description="Search for implementors of the selected interface in the enclosing project" category="_5mTVhWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzRmQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.team.ApplyPatch" commandName="Apply Patch" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzR2QHEe2s9ICykGPXNA" elementId="org.eclipse.ltk.ui.refactoring.commands.deleteResources" commandName="Delete Resources" description="Delete the selected resources and notify LTK participants." category="_5mUjkGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzSGQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.file.print" commandName="Print" description="Print" category="_5mTVfGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzSWQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.debug.ui.commands.AllReferences" commandName="All References" description="Inspect all references to the selected object" category="_5mT8gGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzSmQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.junit.junitShortcut.rerunLast" commandName="Rerun JUnit Test" description="Rerun JUnit Test" category="_5mT8gGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzS2QHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.JavaPerspective" commandName="Java" description="Show the Java perspective" category="_5mT8hGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzTGQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.select.selectMultiSelectionDown" commandName="Multi selection down relative to anchor selection  " description="Search next matching region and add it to the current selection, or remove first element from current multi-selection " category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzTWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.showRulerContextMenu" commandName="Show Ruler Context Menu" description="Show the context menu for the ruler" category="_5mTVgGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzTmQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.indent" commandName="Correct Indentation" description="Corrects the indentation of the selected lines" category="_5mUjkmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzT2QHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.search.references.in.working.set" commandName="References in Working Set" description="Search for references to the selected element in a working set" category="_5mTVhWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzUGQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.ide.copyConfigCommand" commandName="Copy Configuration Data To Clipboard" description="Copies the configuration data (system properties, installed bundles, etc) to the clipboard." category="_5mTVcmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzUWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.folding.collapse" commandName="Collapse" description="Collapses the folded region at the current selection" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzUmQHEe2s9ICykGPXNA" elementId="org.eclipse.epp.mpc.ui.command.showFavorites" commandName="Eclipse Marketplace Favorites" description="Open Marketplace Favorites" category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzU2QHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.smartEnterInverse" commandName="Insert Line Above Current Line" description="Adds a new line above the current line" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzVGQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.navigate.forwardHistory" commandName="Forward History" description="Move forward in the editor navigation history" category="_5mTVeGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzVWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.window.spy" commandName="Show Contributing Plug-in" description="Shows contribution information for the currently selected element" category="_5mTVgGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzVmQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.help.helpSearch" commandName="Help Search" description="Open the help search" category="_5mTVgmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzV2QHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.infer.type.arguments" commandName="Infer Generic Type Arguments" description="Infer type arguments for references to generic classes and remove unnecessary casts" category="_5mTVgWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzWGQHEe2s9ICykGPXNA" elementId="org.eclipse.search.ui.performTextSearchProject" commandName="Find Text in Project" description="Searches the files in the project for specific text." category="_5mTVhWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzWWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.goto.lineDown" commandName="Line Down" description="Go down one line of text" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzWmQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.project.rebuildAll" commandName="Rebuild All" description="Rebuild all projects" category="_5mTVg2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzW2QHEe2s9ICykGPXNA" elementId="org.eclipse.m2e.actions.LifeCycleClean.run" commandName="Run Maven Clean" description="Run Maven Clean" category="_5mT8gGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzXGQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.surround.with.try.with.resources" commandName="Surround with try-with-resources Block" description="Surround the selected text with a try-with-resources block" category="_5mUjkmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzXWQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.quick.format" commandName="Format Element" description="Format enclosing text element" category="_5mUjkmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzXmQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition" commandName="Previous Edit Location" description="Previous edit location" category="_5mTVeGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzX2QHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.open.hyperlink" commandName="Open Hyperlink" description="Opens the hyperlink at the caret location or opens a chooser if more than one hyperlink is available" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzYGQHEe2s9ICykGPXNA" elementId="org.eclipse.mylyn.wikitext.ui.convertToEclipseHelpCommand" commandName="Generate Eclipse Help (*.html and *-toc.xml)" category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzYWQHEe2s9ICykGPXNA" elementId="org.eclipse.debug.ui.command.prevpage" commandName="Previous Page of Memory" description="Load previous page of memory" category="_5mT8gGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzYmQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.debug.ui.commands.ForceReturn" commandName="Force Return" description="Forces return from method with value of selected expression " category="_5mT8gGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzY2QHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.openLocalFile" commandName="Open File..." description="Open a file" category="_5mTVfGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzZGQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.team.Disconnect" commandName="Disconnect" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzZWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.ide.configureFilters" commandName="Filters..." description="Configure the filters to apply to the markers view" category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzZmQHEe2s9ICykGPXNA" elementId="org.eclipse.eclemma.ui.importSession" commandName="Import Session..." category="_5mTVe2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzZ2QHEe2s9ICykGPXNA" elementId="org.eclipse.ui.navigate.previousTab" commandName="Previous Tab" description="Switch to the previous tab" category="_5mTVeGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzaGQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.select.previous" commandName="Select Previous Element" description="Expand selection to include previous sibling" category="_5mTVcmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzaWQHEe2s9ICykGPXNA" elementId="org.eclipse.lsp4e.toggleSortOutline" commandName="Sort" category="_5mTVemQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzamQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.dialogs.openMessageDialog" commandName="Open Message Dialog" description="Open a Message Dialog" category="_5mT8gWQHEe2s9ICykGPXNA">
+    <parameters xmi:id="_5muza2QHEe2s9ICykGPXNA" elementId="title" name="Title"/>
+    <parameters xmi:id="_5muzbGQHEe2s9ICykGPXNA" elementId="message" name="Message"/>
+    <parameters xmi:id="_5muzbWQHEe2s9ICykGPXNA" elementId="imageType" name="Image Type Constant" typeId="org.eclipse.ui.dialogs.Integer"/>
+    <parameters xmi:id="_5muzbmQHEe2s9ICykGPXNA" elementId="defaultIndex" name="Default Button Index" typeId="org.eclipse.ui.dialogs.Integer"/>
+    <parameters xmi:id="_5muzb2QHEe2s9ICykGPXNA" elementId="buttonLabel0" name="First Button Label"/>
+    <parameters xmi:id="_5muzcGQHEe2s9ICykGPXNA" elementId="buttonLabel1" name="Second Button Label"/>
+    <parameters xmi:id="_5muzcWQHEe2s9ICykGPXNA" elementId="buttonLabel2" name="Third Button Label"/>
+    <parameters xmi:id="_5muzcmQHEe2s9ICykGPXNA" elementId="buttonLabel3" name="Fourth Button Label"/>
+    <parameters xmi:id="_5muzc2QHEe2s9ICykGPXNA" elementId="cancelReturns" name="Return Value on Cancel"/>
+  </commands>
+  <commands xmi:id="_5muzdGQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.genericeditor.findReferences" commandName="Find References" description="Find other code items referencing the current selected item." category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzdWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.goto.lineEnd" commandName="Line End" description="Go to the end of the line of text" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5muzdmQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.file.refresh" commandName="Refresh" description="Refresh the selected items" category="_5mTVfGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaUGQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.team.ReplaceWithOurs" commandName="Replace Conflicting Files with Our Revision" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaUWQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.RepositoriesViewChangeCredentials" commandName="Change Credentials" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaUmQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.correction.extractMethodInplace.assist" commandName="Quick Assist - Extract method" description="Invokes quick assist and selects 'Extract to method'" category="_5mUjkmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaU2QHEe2s9ICykGPXNA" elementId="org.eclipse.oomph.p2.ui.SearchRepositories" commandName="Search Repositories" category="_5mT8gmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaVGQHEe2s9ICykGPXNA" elementId="org.eclipse.debug.ui.commands.RunLast" commandName="Run" description="Launch in run mode" category="_5mT8gGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaVWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.window.closeAllPerspectives" commandName="Close All Perspectives" description="Close all open perspectives" category="_5mTVgGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaVmQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.externalTools.commands.OpenExternalToolsConfigurations" commandName="External Tools..." description="Open external tools launch configuration dialog" category="_5mT8gGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaV2QHEe2s9ICykGPXNA" elementId="org.eclipse.debug.ui.commands.TerminateAll" commandName="Terminate/Disconnect All" description="Terminate/Disconnect All" category="_5mT8gGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaWGQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.debug.ui.command.OpenFromClipboard" commandName="Open from Clipboard" description="Opens a Java element or a Java stack trace from clipboard" category="_5mTVeGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaWWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.deletePrevious" commandName="Delete Previous" description="Delete the previous character" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaWmQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.select.lineStart" commandName="Select Line Start" description="Select to the beginning of the line of text" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaW2QHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.commit.Reword" commandName="Reword Commit" category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaXGQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.team.CompareWithPrevious" commandName="Compare with Previous Revision" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaXWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.editors.lineNumberToggle" commandName="Show Line Numbers" description="Toggle display of line numbers" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaXmQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.select.columnNext" commandName="Select Next Column" description="Select the next column" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaX2QHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.search.read.access.in.workspace" commandName="Read Access in Workspace" description="Search for read references to the selected element in the workspace" category="_5mTVhWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaYGQHEe2s9ICykGPXNA" elementId="org.eclipse.debug.ui.commands.TerminateAndRelaunch" commandName="Terminate and Relaunch" description="Terminate and Relaunch" category="_5mT8gGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaYWQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.JavaHierarchyPerspective" commandName="Java Type Hierarchy" description="Show the Java Type Hierarchy perspective" category="_5mT8hGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaYmQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.RepositoriesToggleBranchCommit" commandName="Toggle Latest Branch Commit" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaY2QHEe2s9ICykGPXNA" elementId="org.eclipse.tm.terminal.paste" commandName="Paste" category="_5mTVhGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaZGQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.history.PushCommit" commandName="Push Commit..." category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaZWQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.surround.with.try.multicatch" commandName="Surround with try/multi-catch Block" description="Surround the selected text with a try/multi-catch block" category="_5mUjkmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaZmQHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.team.Tag" commandName="Create Tag..." category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaZ2QHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.team.NoAssumeUnchanged" commandName="No Assume Unchanged" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaaGQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.ide.showInSystemExplorer" commandName="Show In (System Explorer)" description="Show in system's explorer (file manager)" category="_5mTVeGQHEe2s9ICykGPXNA">
+    <parameters xmi:id="_5mvaaWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.ide.showInSystemExplorer.path" name="Resource System Path Parameter"/>
+  </commands>
+  <commands xmi:id="_5mvaamQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.select.lineDown" commandName="Select Line Down" description="Extend the selection to the next line of text" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaa2QHEe2s9ICykGPXNA" elementId="org.eclipse.debug.ui.commands.RemoveAllBreakpoints" commandName="Remove All Breakpoints" description="Removes all breakpoints" category="_5mT8gGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvabGQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.sort.members" commandName="Sort Members" description="Sort all members using the member order preference" category="_5mUjkmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvabWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.navigator.resources.nested.changeProjectPresentation" commandName="P&amp;rojects Presentation" category="_5mUjlGQHEe2s9ICykGPXNA">
+    <parameters xmi:id="_5mvabmQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.navigator.resources.nested.enabled" name="&amp;Hierarchical"/>
+    <parameters xmi:id="_5mvab2QHEe2s9ICykGPXNA" elementId="org.eclipse.ui.commands.radioStateParameter" name="Nested Project view - Radio State" optional="false"/>
+  </commands>
+  <commands xmi:id="_5mvacGQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.window.showKeyAssist" commandName="Show Key Assist" description="Show the key assist dialog" category="_5mTVgGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvacWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.genericeditor.togglehighlight" commandName="Toggle Highlight" category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvacmQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.lowerCase" commandName="To Lower Case" description="Changes the selection to lower case" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvac2QHEe2s9ICykGPXNA" elementId="org.eclipse.egit.ui.team.CompareWithIndex" commandName="Compare with Index" category="_5mT8g2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvadGQHEe2s9ICykGPXNA" elementId="org.eclipse.m2e.discovery.ui" commandName="m2e Marketplace" category="_5mUjlGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvadWQHEe2s9ICykGPXNA" elementId="org.eclipse.ui.edit.text.zoomOut" commandName="Zoom Out" description="Zoom out text, decrease default font size for text editors" category="_5mTVd2QHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvadmQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.introduce.parameter.object" commandName="Introduce Parameter Object" description="Introduce a parameter object to a selected method" category="_5mTVgWQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvad2QHEe2s9ICykGPXNA" elementId="org.eclipse.ui.file.save" commandName="Save" description="Save the current contents" category="_5mTVfGQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvaeGQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.commands.openElementInEditor" commandName="Open Java Element" description="Open a Java element in its editor" category="_5mTVeGQHEe2s9ICykGPXNA">
+    <parameters xmi:id="_5mvaeWQHEe2s9ICykGPXNA" elementId="elementRef" name="Java element reference" typeId="org.eclipse.jdt.ui.commands.javaElementReference" optional="false"/>
+  </commands>
+  <commands xmi:id="_5mvaemQHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.correction.assignAllParamsToNewFields.assist" commandName="Quick Assist - Assign all parameters to new fields" description="Invokes quick assist and selects 'Assign all parameters to new fields'" category="_5mUjkmQHEe2s9ICykGPXNA"/>
+  <commands xmi:id="_5mvae2QHEe2s9ICykGPXNA" elementId="org.eclipse.jdt.ui.edit.text.java.search.references.in.project" commandName="References in Project" descri

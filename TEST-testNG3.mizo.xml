@@ -1,0 +1,55 @@
+indingContext="_9T_SiUHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-sd0HpEe60m44gsXaC2Q" bindingContext="_9T_SikHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-seEHpEe60m44gsXaC2Q" bindingContext="_9T_Si0HpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-seUHpEe60m44gsXaC2Q" bindingContext="_9T_SjEHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-sekHpEe60m44gsXaC2Q" bindingContext="_9T_SjUHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-se0HpEe60m44gsXaC2Q" bindingContext="_9T_SjkHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-sfEHpEe60m44gsXaC2Q" bindingContext="_9T_Sj0HpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-sfUHpEe60m44gsXaC2Q" bindingContext="_9T_SkEHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-sfkHpEe60m44gsXaC2Q" bindingContext="_9T_SkUHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-sf0HpEe60m44gsXaC2Q" bindingContext="_9T_SkkHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-sgEHpEe60m44gsXaC2Q" bindingContext="_9T_Sk0HpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-sgUHpEe60m44gsXaC2Q" bindingContext="_9T_SlEHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-sgkHpEe60m44gsXaC2Q" bindingContext="_9T_SlUHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-sg0HpEe60m44gsXaC2Q" bindingContext="_9T_SlkHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-shEHpEe60m44gsXaC2Q" bindingContext="_9T_Sl0HpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-shUHpEe60m44gsXaC2Q" bindingContext="_9T_SmEHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-shkHpEe60m44gsXaC2Q" bindingContext="_9T_SmUHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-sh0HpEe60m44gsXaC2Q" bindingContext="_9T_SmkHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-siEHpEe60m44gsXaC2Q" bindingContext="_9T_Sm0HpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-siUHpEe60m44gsXaC2Q" bindingContext="_9T_SnEHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-sikHpEe60m44gsXaC2Q" bindingContext="_9T_SnUHpEe60m44gsXaC2Q"/>
+  <bindingTables xmi:id="_9T-si0HpEe60m44gsXaC2Q" elementId="org.eclipse.wst.sse.ui.structuredTextEditorScope" bindingContext="_9T_SYEHpEe60m44gsXaC2Q">
+    <bindings xmi:id="_9T-sjEHpEe60m44gsXaC2Q" keySequence="CTRL+SHIFT+P" command="_9UEym0HpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-sjUHpEe60m44gsXaC2Q" keySequence="CTRL+SHIFT+A" command="_9UEyuUHpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-sjkHpEe60m44gsXaC2Q" keySequence="CTRL+SHIFT+C" command="_9UEyskHpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-sj0HpEe60m44gsXaC2Q" keySequence="CTRL+SHIFT+F" command="_9UEyt0HpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-skEHpEe60m44gsXaC2Q" keySequence="CTRL+SHIFT+>" command="_9UEyq0HpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-skUHpEe60m44gsXaC2Q" keySequence="CTRL+I" command="_9UEyrkHpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-skkHpEe60m44gsXaC2Q" keySequence="CTRL+O" command="_9UEynUHpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-sk0HpEe60m44gsXaC2Q" keySequence="CTRL+SHIFT+/" command="_9UEymEHpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-slEHpEe60m44gsXaC2Q" keySequence="CTRL+SHIFT+\" command="_9UEyoEHpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-slUHpEe60m44gsXaC2Q" keySequence="F3" command="_9UEymkHpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-slkHpEe60m44gsXaC2Q" keySequence="CTRL+SHIFT+ARROW_UP" command="_9UEyo0HpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-sl0HpEe60m44gsXaC2Q" keySequence="CTRL+SHIFT+ARROW_DOWN" command="_9UEytUHpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-smEHpEe60m44gsXaC2Q" keySequence="ALT+SHIFT+ARROW_UP" command="_9UEyokHpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-smUHpEe60m44gsXaC2Q" keySequence="ALT+SHIFT+ARROW_DOWN" command="_9UEypEHpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T-smkHpEe60m44gsXaC2Q" keySequence="ALT+SHIFT+ARROW_LEFT" command="_9UEynkHpEe60m44gsXaC2Q"/>
+    <bindings xmi:id="_9T_SUEHpEe60m44gsXaC2Q" keySequence="ALT+SHIFT+ARROW_RIGHT" command="_9UEyn0HpEe60m44gsXaC2Q"/>
+  </bindingTables>
+  <rootContext xmi:id="_9T_SUUHpEe60m44gsXaC2Q" elementId="org.eclipse.ui.contexts.dialogAndWindow" contributorURI="platform:/plugin/org.eclipse.platform" name="In Dialogs and Windows" description="Either a dialog or a window is open">
+    <children xmi:id="_9T_SUkHpEe60m44gsXaC2Q" elementId="org.eclipse.ui.contexts.window" contributorURI="platform:/plugin/org.eclipse.platform" name="In Windows" description="A window is open">
+      <children xmi:id="_9T_SU0HpEe60m44gsXaC2Q" elementId="org.eclipse.e4.ui.contexts.views" contributorURI="platform:/plugin/org.eclipse.platform" name="%bindingcontext.name.bindingView"/>
+      <children xmi:id="_9T_SVEHpEe60m44gsXaC2Q" elementId="org.eclipse.tm.terminal.EditContext" name="Terminal Control in Focus" description="Show modified keyboard shortcuts in context menu"/>
+      <children xmi:id="_9T_SVUHpEe60m44gsXaC2Q" elementId="org.eclipse.debug.ui.BreakpointView" name="In Breakpoints View" description="The breakpoints view context"/>
+      <children xmi:id="_9T_SVkHpEe60m44gsXaC2Q" elementId="org.eclipse.ui.textEditorScope" name="Editing Text" description="Editing Text Context">
+        <children xmi:id="_9T_SV0HpEe60m44gsXaC2Q" elementId="org.eclipse.egit.ui.DiffViewer" name="In Diff Viewer"/>
+        <children xmi:id="_9T_SWEHpEe60m44gsXaC2Q" elementId="org.eclipse.ui.genericeditor.genericEditorContext" name="in Generic Code Editor" description="When editing in the Generic Code Editor"/>
+        <children xmi:id="_9T_SWUHpEe60m44gsXaC2Q" elementId="org.eclipse.jdt.ui.classFileEditorScope" name="Browsing attached Java Source" description="Browsing attached Java Source Context"/>
+        <children xmi:id="_9T_SWkHpEe60m44gsXaC2Q" elementId="org.eclipse.jdt.ui.javaEditorScope" name="Editing Java Source" description="Editing Java Source Context"/>
+        <children xmi:id="_9T_SW0HpEe60m44gsXaC2Q" elementId="org.eclipse.mylyn.internal.wikitext.ui.editor.basicMarkupSourceContext" name="WikiText Markup Source Context" description="WikiText markup editing context">
+          <children xmi:id="_9T_SXEHpEe60m44gsXaC2Q" elementId="org.eclipse.mylyn.wikitext.ui.editor.markupSourceContext" name="WikiText Markup Source Context" description="WikiText markup editing context"/>
+        </children>
+        <children xmi:id="_9T_SXUHpEe60m44gsXaC2Q" elementId="org.eclipse.ant.ui.AntEditorScope" name="Editing Ant Buildfiles" description="Editing Ant Buildfiles Context"/>
+        <children xmi:id="_9T_SXkHpEe60m44gsXaC2Q" elementId="org.eclipse.jdt.ui.propertiesEditorScope" name="Editing Properties Files" description="Editing Properties Files Context"/>
+        <children xmi:id="_9T_SX0HpEe60m44gsXaC2Q" elementId="org.eclips
